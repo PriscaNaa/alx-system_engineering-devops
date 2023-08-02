@@ -14,3 +14,4 @@ Lists all files in both current and parent directory and /boot directory
 Creating a file
 Creating a symbolic link
 Copying HTML files
+Creating a script that moves all files beginning with uppercase
