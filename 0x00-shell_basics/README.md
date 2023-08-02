@@ -6,3 +6,4 @@ Display current directory contents, including hidden files
 Display content of current directory including hidden files and user and group IDs numerically
 Creating a directory in the /tmp/ directory
 Creating a directory in the /tmp/ directory
+Moving file from one directory to another
