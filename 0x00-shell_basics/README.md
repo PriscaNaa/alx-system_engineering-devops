@@ -15,3 +15,4 @@ Creating a file
 Creating a symbolic link
 Copying HTML files
 Creating a script that moves all files beginning with uppercase
+Cleaning all files in current directory beginning with ~
