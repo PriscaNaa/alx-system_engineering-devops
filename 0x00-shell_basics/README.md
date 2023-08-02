@@ -11,3 +11,4 @@ Deleting files from a directory
 Deleting a directory
 Changing the working directory to the previous one
 Lists all files in both current and parent directory and /boot directory
+Creating a file
