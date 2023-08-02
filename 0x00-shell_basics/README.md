@@ -8,3 +8,4 @@ Creating a directory in the /tmp/ directory
 Creating a directory in the /tmp/ directory
 Moving file from one directory to another
 Deleting files from a directory
+Deleting a directory
