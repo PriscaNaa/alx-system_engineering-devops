@@ -3,3 +3,4 @@ Display content list of current directory
 Change working directory to user home directory
 Display current directory contents in long format
 Display current directory contents, including hidden files
+Display content of current directory including hidden files and user and group IDs numerically
