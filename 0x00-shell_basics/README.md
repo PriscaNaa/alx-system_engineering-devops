@@ -7,3 +7,4 @@ Display content of current directory including hidden files and user and group I
 Creating a directory in the /tmp/ directory
 Creating a directory in the /tmp/ directory
 Moving file from one directory to another
+Deleting files from a directory
