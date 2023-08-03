@@ -11,3 +11,4 @@ Setting mirror permissions
 Directory Permissions
 More directories
 Changing group
+Changing owner and group
