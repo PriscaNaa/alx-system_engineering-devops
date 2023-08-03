@@ -10,3 +10,4 @@ Setting the mode
 Setting mirror permissions
 Directory Permissions
 More directories
+Changing group
