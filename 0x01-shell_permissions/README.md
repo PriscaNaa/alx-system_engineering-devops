@@ -12,3 +12,5 @@ Directory Permissions
 More directories
 Changing group
 Changing owner and group
+Creating symbolic links
+watching star wars
