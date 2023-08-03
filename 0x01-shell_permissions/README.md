@@ -6,3 +6,4 @@ Creating an empty file
 Giving executive permission to owner of file
 Giving specific permissions
 Giving further permissions
+Setting the mode
