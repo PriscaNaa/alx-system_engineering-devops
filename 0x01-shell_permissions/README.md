@@ -9,3 +9,4 @@ Giving further permissions
 Setting the mode
 Setting mirror permissions
 Directory Permissions
+More directories
