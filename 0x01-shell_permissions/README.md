@@ -15,3 +15,4 @@ Changing owner and group
 Creating symbolic links
 watching star wars
 Changing ownership again
+Multiple permissions
