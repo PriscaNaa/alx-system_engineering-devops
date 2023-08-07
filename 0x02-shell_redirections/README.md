@@ -16,3 +16,4 @@ Finding word
 Counting the word
 Displaying lines with patterns
 Displaying all lines
+Displaying all lines of a file
