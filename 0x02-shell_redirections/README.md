@@ -12,3 +12,4 @@ Deleting regular files
 Counting number of directories
 Displaying 10 new files
 Displaying uniqueness
+Finding word
