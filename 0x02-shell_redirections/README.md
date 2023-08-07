@@ -14,3 +14,4 @@ Displaying 10 new files
 Displaying uniqueness
 Finding word
 Counting the word
+Displaying lines with patterns
