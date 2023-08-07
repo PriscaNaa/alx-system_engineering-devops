@@ -5,3 +5,4 @@ Displaying contents of two files
 Displaying last lines of a file
 Displaying first lines of a file
 Displaying the third line
+Creating file with content
