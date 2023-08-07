@@ -7,3 +7,4 @@ Displaying first lines of a file
 Displaying the third line
 Creating file with content
 Saving current state of directory
+Duplicating last line
