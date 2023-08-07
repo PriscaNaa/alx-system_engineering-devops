@@ -9,3 +9,5 @@ Creating file with content
 Saving current state of directory
 Duplicating last line
 Deleting regular files
+Counting number of directories
+Displaying 10 new files
