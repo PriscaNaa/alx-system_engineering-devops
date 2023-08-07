@@ -20,3 +20,4 @@ Displaying all lines of a file
 Replacing all characters
 Removing C
 Reversing
+Displaying all users and home directories
