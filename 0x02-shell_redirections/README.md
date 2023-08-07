@@ -8,3 +8,4 @@ Displaying the third line
 Creating file with content
 Saving current state of directory
 Duplicating last line
+Deleting regular files
