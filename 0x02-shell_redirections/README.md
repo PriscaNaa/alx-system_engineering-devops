@@ -4,3 +4,4 @@ Display contents of a File
 Displaying contents of two files
 Displaying last lines of a file
 Displaying first lines of a file
+Displaying the third line
