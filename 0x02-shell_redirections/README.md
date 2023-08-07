@@ -15,3 +15,4 @@ Displaying uniqueness
 Finding word
 Counting the word
 Displaying lines with patterns
+Displaying all lines
