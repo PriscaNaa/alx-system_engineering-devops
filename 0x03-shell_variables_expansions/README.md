@@ -9,3 +9,4 @@ Addition
 Printing results of power divided by
 Displaying results
 Converting bases
+All possible combinations
