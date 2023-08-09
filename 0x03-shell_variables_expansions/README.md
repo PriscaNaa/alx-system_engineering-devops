@@ -1,5 +1,6 @@
 Creating an alias
 Hello me
+Adding action to path
 Counting directions in PATH
 Listing environment variables
 Listing both local and environment variables
