@@ -11,3 +11,4 @@ Displaying results
 Converting bases
 All possible combinations
 Decimals
+Decimals to hexadecimals
