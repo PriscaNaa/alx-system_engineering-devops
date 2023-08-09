@@ -8,3 +8,4 @@ Creating a new global variable
 Addition
 Printing results of power divided by
 Displaying results
+Converting bases
